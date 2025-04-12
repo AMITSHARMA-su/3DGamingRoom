@@ -24,6 +24,19 @@ This project is perfect for anyone exploring 3D web development or learning how 
 
 ---
 
+## 👥 Team Members
+- Amit Sharma
+- Amol Satpute
+- Arin Jadhav
+- Arnav Pedhavi
+- Satish Prajapati
+- Rohan More
+- Aman Mishra
+for being an awesome collaborator throughout the project!
+
+
+
+
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
@@ -34,13 +47,6 @@ https://github.com/AMITSHARMA-su/3DGamingRoom.git
 
 https://drive.google.com/file/d/1Dzr9gUhp2ZP3MCQpenjePaA-y5KqojU9/view?usp=drive_link
 
-### 3.Save them together
-
-The index.html and .glb file in same folder 
-
-### 4. Run the index.html
-
-run the index.html file from any web browser 
 
 
 
